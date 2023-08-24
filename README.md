@@ -12,7 +12,7 @@ You can fine-tune SantaCoder using the provided code and The Stack dataset. Here
 1. Clone Repository and Install Packages:
 First, clone the repository and install necessary packages:
 
-git clone https://github.com/bigcode/santacoder-finetuning.git
+git clone [https://github.com/bigcode/santacoder-finetuning.git](https://github.com/TanujManikyala/Finetunning-Using-SantaCoder.py)
 cd santacoder-finetuning
 pip install -r requirements.txt
 
